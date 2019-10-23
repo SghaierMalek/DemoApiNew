@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Persistence",
+    "\\Persistence\\Context",
+    "\\Persistence\\Repositories",
+    "\\Services"
+  ],
+  "SelectedNode": "\\GenericServices",
+  "PreviewInSolutionExplorer": false
+}
